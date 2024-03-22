@@ -30,8 +30,10 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Gencraft](https://gencraft.com/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+
+O Poder Oculto dos Algoritmos: Domine a Ordenação em C#
 
 ## 🧠 Prompts
 
@@ -40,15 +42,18 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema de algoritmos de ordenação, o ebook é do nicho de programação e o subnicho é de C#, o título deve ser épico e curto,  me liste 5 variações de títulos                                                        |
+| conteúdo | Faça um texto para ebook , com foco em C#, listando os principais algoritmos de ordenação com exemplos em código {REGRAS} Explique sempre de uma maneira simples e deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico.
+
+{REGRAS}
+- Trazer a notação de  complexidade de tempo para cada algoritmo. |
 
 
-Midjourney：
+Gencraft
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Ultra realistic photo of a man with a hood, his in front of computer, his is concentraded in coding a software, hist is looking at screen, quite dark, in the background some monitors with binary contents. |
 
 ## ✨ Features
 
